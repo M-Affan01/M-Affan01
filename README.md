@@ -1,18 +1,72 @@
-# About Me:
-I am currently working on full-stack web applications using the MERN stack and exploring Artificial Intelligence concepts to build smart, scalable, and user-centric solutions.<br>I am looking to collaborate on MERN stack projects, AI-based applications, and innovative software solutions that solve real-world problems.<br>I am looking for help with advanced AI, machine learning concepts, and best practices for building high-performance, scalable applications.<br>I am currently learning Artificial Intelligence, machine learning fundamentals, and improving my skills in modern full-stack development.<br>Ask me about MERN stack development, RESTful APIs, web application design, and software engineering fundamentals.<br>I have teaching experience in Mathematics, which strengthened my communication, problem-solving, and leadership skills along with coding.
+# Hello, I'm Muhammad Affan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+## Full-Stack Developer | MERN Stack | AI Enthusiast
 
-## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/affan.nexor/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m.affan8091?igsh=MXZkODM5OWNrejY1Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/affan-nexor-66abb8321/) 
+<table>
+<tr>
+<td width="60%">
 
-# Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=M-Affan01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=M-Affan01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Affan01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<ul>
+<li>Full-Stack MERN Developer, experienced in building scalable and high-performance web applications.</li>
+<li>Skilled in designing RESTful APIs, backend systems, and responsive UIs.</li>
+<li>Passionate about clean, efficient, and maintainable code.</li>
+<li>Exploring AI & Machine Learning for smart applications.</li>
+<li>Strong grip on JavaScript, React.js, Node.js, and databases.</li>
+<li>Continuously learning new tools and technologies.</li>
+</ul>
+
+</td>
+<td width="40%">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=M-Affan01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About Me
+From the moment I wrote my first line of code, I knew software engineering was my true passion. I am currently studying Software Engineering and strengthening my skills through academic coursework and real-world software development projects. At present, I am focused on full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js) and exploring Artificial Intelligence (AI) concepts, as I enjoy building scalable, intelligent, and user-centric applications that create real impact.
+
+Alongside my technical journey, I have 1 year of teaching experience in Mathematics at Times Collegiate and The Matrediates, which enhanced my communication skills, analytical thinking, problem-solving ability, and leadership qualities. I actively develop modern web applications, implement RESTful APIs, and continuously learn AI and machine learning fundamentals to make my projects smarter, faster, and more efficient.
+
+I am highly motivated to grow in the software development industry, learn emerging technologies, and contribute to innovative, real-world solutions. My goal is to become a confident full-stack software engineer who builds high-quality, performance-driven, and meaningful digital products.
+
+---
+
+## Tech Stack
+
+**Core Technologies:**  
+React.js, JavaScript (ES6+), Node.js, Express.js, MongoDB, Python, Java, HTML5, CSS3, Tailwind CSS, Bootstrap  
+
+**AI & Data Science:**  
+TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib  
+
+**Tools & DevOps:**  
+Git, GitHub, Postman, Netlify, Render  
+
+**Additional Tools & Libraries:**  
+Three.js, Chart.js, Power BI
+
+---
+## Connect with me
+<p>
+<a href="https://www.linkedin.com/in/affan-nexor-66abb8321">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:maffan2830@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/M-Affan01">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Affan01&theme=radical" width="60%" />
