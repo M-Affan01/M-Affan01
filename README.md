@@ -73,4 +73,11 @@ Three.js, Chart.js, Power BI
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Affan01&theme=radical" width="60%" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Affan01&theme=radical" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Affan01&show_icons=true&theme=radical&hide_border=true" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Affan01&layout=compact&theme=radical&hide_border=true" width="40%" />
+</div>
