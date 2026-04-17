@@ -1,11 +1,11 @@
-# Hello, I'm Muhammad Affan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-## Full-Stack Developer | MERN Stack | AI Enthusiast
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" >, I'm Muhammad Affan</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Full-Stack+MERN+Developer;AI+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
+</h3>
 
 <table>
 <tr>
-<td width="60%">
-
+<td width="70%">
 <ul>
 <li>Full-Stack MERN Developer, experienced in building scalable and high-performance web applications.</li>
 <li>Skilled in designing RESTful APIs, backend systems, and responsive UIs.</li>
