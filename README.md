@@ -26,28 +26,28 @@
 
 ---
 
-### About Me
-From the moment I wrote my first line of code, I knew software engineering was my true passion. I am currently studying Software Engineering and strengthening my skills through academic coursework and real-world software development projects. At present, I am focused on full-stack web development using the MERN stack (MongoDB, Express.js, React.js, Node.js) and exploring Artificial Intelligence (AI) concepts, as I enjoy building scalable, intelligent, and user-centric applications that create real impact.
-
-Alongside my technical journey, I have 1 year of teaching experience in Mathematics at Times Collegiate and The Matrediates, which enhanced my communication skills, analytical thinking, problem-solving ability, and leadership qualities. I actively develop modern web applications, implement RESTful APIs, and continuously learn AI and machine learning fundamentals to make my projects smarter, faster, and more efficient.
-
-I am highly motivated to grow in the software development industry, learn emerging technologies, and contribute to innovative, real-world solutions. My goal is to become a confident full-stack software engineer who builds high-quality, performance-driven, and meaningful digital products.
-
----
-
 ## Tech Stack
 
-**Core Technologies:**  
-React.js, JavaScript (ES6+), Node.js, Express.js, MongoDB, Python, Java, HTML5, CSS3, Tailwind CSS, Bootstrap  
+### Core Technologies
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,python,java,html,css,tailwind,bootstrap" />
+</p>
 
-**AI & Data Science:**  
-TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib  
+### AI & Data Science
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,matplotlib" />
+</p>
 
-**Tools & DevOps:**  
-Git, GitHub, Postman, Netlify, Render  
+### Tools & DevOps
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,netlify,render" />
+</p>
 
-**Additional Tools & Libraries:**  
-Three.js, Chart.js, Power BI
+### Additional Tools & Libraries
+<p align="left">
+<img src="https://skillicons.dev/icons?i=threejs" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 ## Connect with me
@@ -73,11 +73,8 @@ Three.js, Chart.js, Power BI
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Affan01&theme=radical" width="60%" />
-</div>
+<p align="center"> <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Affan01&theme=github-dark-blue&hide_border=true" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Affan01&show_icons=true&theme=radical&hide_border=true" width="52%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Affan01&layout=compact&theme=radical&hide_border=true" width="40%" />
-</div>
+---
+## Quote 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Code.+Create.+Innovate.;Dream+Big+Build+Bigger.;Success+Starts+With+Consistency."/> </p> 
