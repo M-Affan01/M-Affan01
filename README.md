@@ -3,20 +3,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Full-Stack+MERN+Developer;AI+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
 </h3>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td width="70%">
-<ul>
-<li>Full-Stack MERN Developer, experienced in building scalable and high-performance web applications.</li>
-<li>Skilled in designing RESTful APIs, backend systems, and responsive UIs.</li>
-<li>Passionate about clean, efficient, and maintainable code.</li>
-<li>Exploring AI & Machine Learning for smart applications.</li>
-<li>Strong grip on JavaScript, React.js, Node.js, and databases.</li>
-<li>Continuously learning new tools and technologies.</li>
-</ul>
+<td width="60%" valign="top">
+
+## About Me
+
+- Full-Stack MERN Developer focused on building scalable and modern web applications.  
+- Experienced in creating RESTful APIs, backend systems, and responsive user interfaces.  
+- Passionate about writing clean, efficient, and maintainable code.  
+- Exploring Artificial Intelligence & Machine Learning for smart solutions.  
+- Strong command of JavaScript, React.js, Node.js, and databases.  
+- Continuously learning new tools and technologies to stay ahead.  
 
 </td>
-<td width="40%">
+
+<td width="40%" align="center" valign="middle">
 
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif" width="100%" />
 
