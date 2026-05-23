@@ -6,8 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Building+Scalable+Web+Applications;AI+%26+Machine+Learning+Explorer;Passionate+About+Clean+Code" />
   </a>
 </p>
-
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FM-Affan01&style=for-the-badge)](https://rankistan.dev)
   
 </div>
 
